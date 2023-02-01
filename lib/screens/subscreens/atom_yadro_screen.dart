@@ -144,7 +144,7 @@ class _AtomYadroScreenState extends State<AtomYadroScreen> {
                                   color: ConstantColors.buttonColor),
                               child: const Center(
                                 child: Text(
-                                  'Meseleler',
+                                  'Meseleler ',
                                   textAlign: TextAlign.center,
                                   textScaleFactor: 2,
                                   style: TextStyle(
