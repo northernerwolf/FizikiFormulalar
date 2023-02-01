@@ -1,0 +1,15 @@
+	ATOM WE ÝADRO FIZIKASY
+ATOMYŇ MODELI—atomyň giňişlik gurluşy barda çaklama, göz öňüne getirme.Tomsonyň pikiri boýunça,atom,içinde elektronlar bolan položitel zarýadly togalak,položitel zarýad togalagyň üstinde  däl-de onuň içinde deňölçegli ýerleşen elektronlar bolsa togalagyň  içiniň dürli nokatlarynda  deň agramly ýagdaýda durýarlar.Elektronlaryň otirisatel zarýadlarynyň jemi atomdaky položitel zarýadlaryň jemine deň,atom tutuşlygna alnanda zarýadsyz,birtarapdyr.Rezerfordyň pikiri boýunça atomyň  merkezinde položitel zarýadly,massasy atomyň massasyna deň diýen ýaly, ýadro ýerleşen, ýadronyň daşynda bolsa elektronlar Güniň daşyndaky planetalar ýaly aýlanýarlar.Şonuň üçin hem Rezerfordyň teklip eden modeline atomyň ýadroly modeli ýa-da planetar modeli diýilýär.
+ATOMYŇ ÝADROSY—atomyň merkezinde ýerleşen,massasy atomyň massasyndan sähelçe az we položitel zarýadly bölegi.
+ BAGLANYŞYK ENERGIÝASY—ýadrony ony düzýän bölejiklere, nuklonlara, doly dargatmak üçin gerek bolan energiýa. 
+BELGILENEN ATOMLAR- dürli himiki elmentleriň radioişjeň izotoplary.
+BORUŇ POSTULATLARY—atomyň durnuklylygyny we şöhlelenmesi düşündirmek üçin çaklama .Boruň birinji  postulaty – atom diňe her haýsyna energiýanyň kesgitli E bahsy degişli bolan ýörite durnukly (stasionar) ýa-da kwant hallarda bolup biler , durnukly halda  ataom şöhle goýbermeýär Boruň ikinji postulaty – atom uly E_k energiýaly durnukly haldan kiçi 
+ENERGETIK ÇYKYM- ýadrolaryň täsirleşmä çenli we täsirleşmeden soňky dynçlyk energiýalarynyň ýa-da kinetik energiýalarynyň tapawudy
+IZOTOPLAR – ýadrolarynyň zarýadlary deň, emma massalary dürli atomlar.
+NEÝTRON-zarýatsyz sada bolejik. Neýtronyň massasy protonyňka deň diýen ýaly,emma sähelçe uly, elektronyňkydan bolsa 1838 esseräk uly.
+PROTON-grek sözi bolp ,birinji diýen manyny aňladýar,sada bölejik wodorod atomynyň ýeňil izotopynyň ýadrosy.Protonyň massasy elektronyňkydan 1838 esse uly, zarýady elektronyňka deň,emma položitel.Neýtronlar bilen bilelikde ähli atomlaryň ýadrolaryny düzýärler.
+RADIOIŞJEŇ ŞÖHLELER-daşardan täsiri bolmazdan radioişjeň elementleriň ýadrolarynyň öz-özinden goýberýän şöhleleri.Olaryň α şöhleler diýilýäni 2 protondan we 2 neýtrondan  düzilen bölejikleriň akymy,β şöhleleri  elektronlaryň akymy we γ şöhleleri  bolsa  fotonlaryň akymy.
+RADIOIŞJEŇ ÖWRILMELER-radioişjeň şöhlelenme netijesinde bir  elementiň atomynyň ýadrosynyň başga bir elementiň atomynyň  ýadrosyna öwrilmesi.
+SUG-atomyň her gezek şöhlelenme dowamynda goýberilýän tolkuny. Bir sugda millionlarça tolkun uzynlyklylary ýerleşýär.
+TERMOÝADRO TÄSIRLEŞMESI- ýeňil ýadrolaryň örän ýokary(108 K) temperaturada geçýän birleşme täsirleşmeleri. 
+

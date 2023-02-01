@@ -1,0 +1,30 @@
+1.Her  biriniň  massasy  m=1 g bolan geliý, uglerod,  ftor, poloniý  gazlarda   näçe  atom  bardygyny  tapmaly.
+2.Göwrümi  V=5 l  bolan  gapda  m=20 g  massaly  kislorod  ýerleşdirilen. Gapdaky  molekulalaryň  konsentrasiýasyny  tapmaly.
+3.Normal  şertde  ideal  gazyň  106  sany  molekulasy  ýerleşýän  kubunyň  gapyrgasynyň  uzynlygyny  tapmaly.
+4. Normal  şertdäki  kislorod  V=2,2 l  göwrümli  gapda  ýerleşdirilen. Gapdaky  kislorodyň  madda  mukdaryny,  massasyny  we  konsentrasiýasyny  kesgitlemeli.
+5. Normal  şertdäki  V=1 l  göwrümli  gazyň  massasy  m=1,429*10-3 kg. Bu  gazyň  dykyzlygyny,  molýar massasyny  we  molekulalarynyň  sanyny  tapmaly.
+6.Uzynlygy  l=1 m  bolan  porşenli  silindr  kadaly  atmosfera  basyşyndaky  howadan  doldurylan. Porşen  ýuwaşjadan  süýşürilip,  silindriň  düýbinden  l1=10 sm  aralykda  saklanýar. Eger  porşeniň  meýdany  S=200 sm2  deň  bolsa  porşene  täsir  edýän  güýjüni  kesgitlemeli.
+7.Ballondaky  gazyň  tempraturasy  t1=1000S. Gazyň  basyşynyň  2  esse  artmagy  üçin  ony  näçe  tempratura  çenli  gyzdyrmaly?
+8.Basyşy  P=1 Mpa,  tempraturasy  T=400 K  deň  bolan  ideal  gazyň  v=1 kmol mukdarynyň  göwrümini  kesgitlemeli.
+9.Göwrümi  V=12 l  bolan  ballonda  ýerleşdirilen. Kömürturşy  gazyň  basyşy  P=1 MPa, tempraturasy  T=300 K. Ballondaky  gazyň  massasyny  kesgitlemeli.
+10.Göwrümi  V=20 l  bolan  ballondaky  m=500 g  massaly  kömürturşy  gazynyň  basyşy  P=1,3*106 Pa. Balondaky  gazyň  tempraturasyny  kesgitlemeli.
+11.Termpraturasy  T=100K, basyşy  P=0,1 Pa  bolan  wodorod  molekularynyň  erkin  geçen  ýolunyň  orta  uzynlygyny  tapmaly.
+12. Tempraturasy  T=300K  bolan  azot  molekularynyň  erkin  geçen  ýolunyň  orta  uzynlygy  < λ >=1  m  deň  bolamagy  üçin  ol  näçe  basyşda  bolmaly?
+13.Göwrümi  V=10 ℓ ballonda  massasy  m=1 g bolan  wodorod  gazy  ýerleşdirilen. Wodorod  molekulalarynyň  erkin  geçen  ýolunyň  orta  uzynlygyny  kesgitlemeli.
+14.Erkin  geçen  ýolunyň  orta  uzynlygy  <  λ > 1sm  deň  bolan  seýreklendirilen  wodorod  gazynyň  dykyzlygyny  kesgitlemeli.
+15.Kadaly  şertdäki  kömürturşy  gazynyň  molekulalarynyň  r=1 s  dowamyndaky  çaknyşmalarynyň  orta  sanyny  tapmaly.
+16.Gaz  garyndysy  m1= 10 g  kisloroddan  we  m2=20  g  azotdan  ybarat. Gaz  garyndysynyň  hemişelik  basyşdaky   ( Cp ) we  hemişelik  göwrümdäki  ( Cv ) udel  ýylylyk  sygymlaryny  kesgitlemeli.
+17.Gaz  garyndysy  V1=5 ℓ  wodoroddan  we  V2=3ℓ  geliýden  ybarat. Garyndynyň  hemişelik  göwrümdäki  udel  ýylylyk  sygymlaryny  kesgitlemeli. Garyndynyň  düzümindäki  gazlar  şol  bir  şertde  diýip  kabul  etmeli.
+18.Kislorodyň  ν1=2  molundan  we  azodyň  ν2=4  molundan  ybarat  gaz  garyndysynyň  hemişelik  basyşdaky  ( Cp  ) udel  ýylylyk  sygymlaryny  kesgitlemeli.
+19. Aýalawly  prosesde  gaz  A=1 J  iş  edipdir  we  sowadyja  Q2=4,2 J   ýylylyk  mukdaryny  geçiripdir.  Sikliň  termiki  PTK-i  (η)  kesgitlemeli.
+20.Ýapyk  aýlawly  prosesinde  gaz  gyzdyryjydan  Q=4 kJ  ýylylyk  mukdaryny  alypdyr. Gazyň  bu  siklde  eden  işini  kesgitlemeli.  Sikliň  PTK-i  η=0,1.
+21. Iki  izobaradan  we  iki  izotermadan  ybarat  sikliň  PTK-ni  tapmaly.
+22. Köpatomly  ideal  gaz  izohoradan  we  iki  izobaradan  ybarat  sikli  amala  aşyrýar. Siklde  gazyň  iň  uly  basyşy  iň  kiçi  basyşdan  iki  esse  uly,  iň  uly  göwrümiň  iň  kiçi  göwrümde  dört  esse  uly. Sikliň  termiki  PTK-ni  kesgitlemeli.
+23.Karnonyň  siklinde  gyzdyryjynyň  tempraturasy  sowadyjynyňkydan  3 esse  uly. Gaz  gyzdyryjydan  alnan  ýylylyk  mukdarynyň  näçe  bölegini  sowadyja  geçirýändigini kesgitlemeli.
+24. Göwrümi  V =10 ℓ  bolan  gapda  massasy  m=0,25 kg  azot  ýerleşen.  Gazyň  içki  basyşyny  ( P΄), molekularynyň  hususy  göwrümini  (V΄) kesgitlemeli.
+25. Göwrümi  V=0,3 ℓ  gapda  tempraturasy T=300K  bolan  ν=1 mol kömürturşy gaz  ýerleşen.  Gazyň  basyşyny  Mendeleýew-Klapeýronyň  we  Wan-der-Waalysyň  deňlemeleri  arkaly  kesgitlemeli.
+26. Massasy  m=1 kg suw  bugunyň  T=380 K  tempraturadaky  basyşyny:  1) V1 =1000 ℓ,   2) 10 ℓ,  we  3) 2 ℓ  göwrümini  eýeleýän  ýagdaýlary  üçin  kesgitlemeli.
+27. Göwrümi  V=0,1 dm3  gapda  P=2,5 Mpa  basyşly m=4 g  massaly argon  ýerleşen. Argon  gazyna ideal  we  real  gaz  hökmünde  seredip, tempraturany  kesgitlemeli.
+28.Mis  we  demir  sterženleriň  islendik  tempraturada  uzynlyklarynyň  tapawudy  şol  ululyga  deň  bolýan,  olaryň  t=00 S  tempraturada  uzynlyklarynyň  gatnaşygy  näçä  deň  bolar?
+29.Göwrümi  V=3 ℓ  çäýnek  t1=50 S  tempraturaly  suwdan  doldyrylan. Çäýnek  t2=700S  tempratura  çenli  gyzdyrylanda, ondan  näçe  suw  dökülýär?
+30.Islendik  tempraturada  demir  sterženiň  mis  sterženden  ℓ=5 sm  uzyn  bolmagy  üçin  t=00S-de  bu  sterženleriň  uzynlygy  näçä  deň  bolmaly?

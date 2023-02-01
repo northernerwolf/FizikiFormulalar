@@ -1,0 +1,11 @@
+     KWANT FIZIKASY
+FOTOEFFEKT- Ýagtylygyň täsiri bilen maddalardan elektronlaryň goparylyp aýrylmasyna aýdylýar.
+FOTOELEMENT – Elektrik togunyň energiýasyny ýagtylyk energiýasy bilen dolandyrýan ýa-da ýagtylyk energiýasyny elektrik togunyň energiýasyna öwürýän abzala diýilýär.
+FOTON – Elektromagnit şöhlelenmesiniň kwantyna , has ýönekeý aýdanymyzda ýagtylyk bölejiklerine diýilýär.
+HIMIKI TÄSIR – Atomlaryň we molekulalaryň özara öwrülmelerini (himiki reaksiýalary) emele getirýän täsire diýilýär.
+FOTOSINTEZ –Ýagtylygyň täsiri astynda organiki däl maddalardan uglerodyň esasynda organiki maddalaryň emele gelme hadysasyna fotosintez diýilýär.
+FOTOHIMIKI REAKSIÝA – Fotohimiki täsir netijesinde bolup geçýän reaksiýalara aýdylýar.
+FOTOGRAFIÝA – Fotoapparatyň obýektiwi surata düşürilýän zadyň şekilini fotoplýonkanyň ýüzündäki ýagta duýgur, tekiz gatlaga aýdylýar.
+FOTODIOD – p-n geçide ýagtylyk düşýän ýarymgeçirijiniň uçlaryna tok çeşmesini ters ugra birleşdirseň onuň zynjyryndan düşýän ýagtylygyň intensiwligine bagly bolan elektrik togy akýar, bu ýagdaýda oňa fotodiod diýilýär.
+GYZYL ARAÇÄK - ʋ < ʋ0 bolanda h ʋ > A bolar we elektron metaldan çykmaz ʋ0 ýygylyga fotoeffekitiň araçäk ýygylygy ýa-da gyzyl araçägi diýilýär.
+

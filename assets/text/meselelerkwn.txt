@@ -1,0 +1,30 @@
+1. Energiýasy    6*10-19J bolan  foton  görünýän ýagtylyk şöhlelerine degişlimi?
+2. Betatronda  elektronlary  tizlendirip,  energiýasy MeW 100   bolan  gamma-  şöhlelerini  almak  mümkin.  Bu fotonlaryň tolkun uzynlygy näçe?
+3. Tizligi  υ =10 Mm /s  bolan  elektronyň  impulsyna deň impulsy fotonyň tolkun uzynlygyny tapmaly.
+4. Relýatiwistik  massasy  elektronyň  dynçlyk massasyna  we  protonyň  dynçlyk  massasyna  deň  bolan fotonlaryň tolkun uzynlygyny tapmaly.
+5. Molibdeniň  üstüne  tolkun  uzynlygy λ=200 nm bolan  şöhle  düşürilýär.  Onuň  üstünden  goparylyp  aýrylan fotoelektronyň iň uly tizligini tapmaly.  
+6. Tekiz  aýna  normal  düşýän  ýagtylygyň  döredýän basyşy    P=0.2 Pa deň.  Aýnanyň  ýagtylygy  serpikdirme koeffisiýenti    ρ=0. 6  deň  hasap  edip,  düşýän  ýagtylygyň depginini kesgitlemeli.  
+7. Kuwwaty  N = 50 Wt bolan  elektrik  çyradan r = 1m aralykda ýerleşen ideal serpikdiriji üstde dörejek basyşy tapmaly.
+8. Absolýut  gara  jisimiň  temperaturasy  1% üýtgedilende,  onuň  energetik  şöhlelenmesiniň  üýtgemesiniň başlangyç  ululygyna  bolan  gatnaşygynyň  näçe  esse artjakdygyny tapmaly.
+9. Absolýut  gara  jisimiň  t =0oS temperaturada spektral  şöhlelenme  energiýasynyň  iň  uly  bahasynyň  haýsy tolkun uzynlyga düşýänligini tapmaly.
+10. Erkin  elektronda  we  erkin  protonda  pytran fotonyň kompton effekti netijesinde tolkun uzynlygynyň iň uly üýtgemesini kesgitlemeli.  
+11. U = 510 kW tizlendiriji  potensiallar  tapawudyny geçen  elektrona  relýatiwistik  bölejik  hökmünde  seredip,  onuň de Broýl tolkun uzynlygyny tapmaly.
+12. Elektronyň  de  Broýl  tolkun  uzynlygynyň Kompton  tolkun  uzynlygyna  deň  bolmagy  üçin  onuň  kinetik energiýasy näçä deň bolmaly?
+13.  T=0oS temperaturada ýylylyk hereketinde bolan wodorod  molekulasynyň  koordinatasynyň  kesgitsizligini tapmaly.
+14. Diametri  nm  d =0, 3 bolan  atomdaky  elektronyň energiýasynyň kesgitsizligini tapmaly.  
+15. Х-okuň  položitel  ugruna  hereket  edýän  erkin elektron üçin Şrýodingeriň deňlemesini ýazmaly.  
+16. Wodoroda  meňzeş  atomdaky  elektron  üçin Şrýodingeriň deňlemesini ýazmaly.  
+17. Wodorod atomynyň ikinji orbitasyndaky elektronyň tizligini we aýlaw ýygylygyny kesgitlemeli.
+18. Wodorod  atomynyň  birinji  orbitasyndaky elektronyň  potensial,  kinetik  we  doly  energiýasyny kesgitlemeli.
+19. Wodorod  atomynda  elektron  üçünji  energetik derejeden  ikinji  energetik  derejä  geçende  şöhlelendirýän fotonynyň energiýasyny kesgitlemeli.
+20. Paşeniň  seriýasynda  ikinji  spektr  çyzyga  degişli tolkun uzynlygyny kesgitlemeli.
+21. U=60  kW  naprýaženiýede  işleýän  rentgen turbajygynyň şöhlelendirýän tutuş spektrli rentgen şöhleleriniň iň kiçi tolkun uzynlygyny kesgitlemeli.
+22. Atomyň  s  we  p  hallardaky  elektronynyň  orbital hereketiniň impulsynyň momentini tapmaly.
+23. Elektronyň spin magnit momentini we onuň daşky magnit meýdanynyň ugruna proýeksiýasyny kesgitlemeli.
+24. Kümüş kristalynda fononlaryň ýaýrama tizliginiň orta  bahasyny  kesgitlemeli.  Kümüşiň  boý  we  kese maýyşgaklyk  modullaryny  hem-de  dykyzlygyny  tablisadan almaly.
+25. Bir  ýylyň  dowamynda  radioaktiw  izotopynyň başlangyç  mukdary  3  esse  azalan  bolsa,  iki  ýylda  näçe  esse azalar?
+26. Radioaktiw  nusganyň  aktiwligi  250  esse kemelýänçä geçen wagt onuň ýarymdargama periodyndan näçe esse uly?
+27. Gamma-şöhlelenmäniň  inçe  dessesi   x =  5sm galyňlykly gurşun gatlagyndan geçende, onuň depgini  K=14 esse  kiçelipdir.  Gamma-fotonlaryň  energiýasyny  we ýarymgowşama galyňlygyny kesgitlemeli.
+28. Neýtron  özünden  elektrony  we  antineýtrinony zyňyp,  protona  öwrülýär.  Öwrülme  netijesinde  dörän bölejikleriň kinetik energiýalarynyň jemini tapmaly. Neýtronyň kinetik  energiýasyny  we  antineýtrinonyň  dynçlyk  massasyny hasaba almaly däl.
+29. Poloniý    21084P-  ýadrosynyň   α- dargama energiýasyny kesgitlemeli.
+30. Almaz  kristalynyň  gadagan  zolagynyň  giňligi ∆ E =  6 eW.  Onuň  siňdirip  bilýän  ýagtylygynyň  uzyn tolkunynyň çägini tapmaly.

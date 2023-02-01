@@ -1,0 +1,30 @@
+	1)Doly ýagtylyk  akymy  30 lm  deň  bolan  nokatlanç  çeşmäniň  ýagtylyk  güýjüni kesgitlemeli.
+	2)Meýdany   25 m2 deň  kwadrat  otagyň  ortasynda  çyra   asylan.   Otagyň burçlarynda    ýagtylandyrylyşyň iň  uly  bolmaklygy  üçin çyra  ýerden  haýsy beýiklikde  ýerleşmeli?  Çyrany  nokatlanç  çeşme  diýip hasaplamaly. 
+	3)Eger  Gün şöhleleriniň  perpendikulýar düşýän  Ýer üstüniň  1 sm2  meýdançasy       1 minutda 1,5 kal  ýylylyk  mukdaryny alýan bolsa, Ýer üstüniň energetik ýagtylandyrylyşyny  kesgitlemeli. 
+	4)Ýagtylyk güýji  50 kd, diametri 60 sm-e  deň bolan şar  formasyndaky  çal aýnadan  ybarat  bolan ýagtyltgyjyň ýagtylyk akymyny, ýagtylanjylygyny we  röwşenliligini  kesgitlemeli.
+	5)Eger  nokatlanç  ýagtylylyk  çeşmeden  l=2m uzaklykda  E=15 lk  ýagtylandyrylyş bolýan bolsa,  bu çeşmäniň  doly ýagtylyk  akymyny kesgitlemeli.
+	6)Üstünde  0,52 mkm  tolkun  uzynlykly monohromatik ýagtylyk dik  düşünde        1 sm-de 8 interferensiýa  zolagy emele gelýän  aýna  pahnasynyň  döwüji  burçuny  kesgitlemeli.  Berlen  tolkun  uzynlykly  ýagtylykly  üçin  aýnanyň döwülme görkezijisi  1,49.
+	7)Howada  ýerleşen  aýnanyň  ( n=1,67 ) üstüni  ýagtylandyryjy  ýorkanyň  düwme görkezijisini  hasaplamaly. 
+	8)Tekiz  tolkun fronty  üçin  Freneliň  4-nji zolagynyň  radiusy  3 mm. Freneliň    12-nji  zolagynyň  radiusyny hasaplamaly.
+	9)Eger  difraksiýa  gözeneginiň   d  periody yşyň  a  ini bilen  d = na     deňeşdirerlik  bolsa, onda  difraksiýa  spektrinde  tertip sany  n-e kratnyý bolan güýçlenmeleriniň   ýitýänligini   subut  etmeli.
+	10)Tolkun  uzynlygy   λ = 589 nm   monohromatik  ýagtylyk üçin  spektriň    birinji  tertibinde  difraksiýa  gözeneginiň  burç  dispersiýasyny hasaplamaly.    Gözegeniň  hemişeligi  2,5 · 10-4 sm. 
+	 11)Döwüji  burçy  400 deň bolan  prizmanyň  gapdal üstüne  monohromatik şöhle dik düşýär. Prizmanyň  maddasynyň döwme görkezijisi  1,5-e deň. Prizmadan çykanda,  şöhläniň  ilkibaşdaky  ugrundan  gyşarma burçuny kesgitlemeli.
+	 12)Eger nokatlanç  ýagtylyk  çeşmesi we  onuň iki sany tekiz  aýnadaky  hyýaly şekilleri  deňtaraply  üçburçlugyň depelerinde  ýatan bolsa,  ol aýnalaryň arasyndaky  burçy  kesgitlemeli. Çyzgyny gurnamaly.
+	13)Stoluň üstüne  450  burç  bilen düşen ýagtylyk şöhlesiniň   ol ýerden we soňra tekiz aýnadan serpigip,  stoluň üstüne  parallel bolup ýaýramagy  üçin,  aýnany gorizonta görä nähili burç  bilen ýerleşdirmeli?
+	 14)Tekiz aýna  suwuň  içinde  0,5 m çuňlukda  ýatyr. Eger adam suwuň ýokarsyndan 0,25 m  aralykdan  öz şekiline seredýän bolsa, ol gözüni näçe uzaklyga  akkomodirlemeli? Suwuň  döwme görkezijisi  1,33.
+	 15)Obýektiwiniň  fokus  aralygy  50 sm-e  deň bolan görüş turbasy tükensizlige gurnalan. 50 m  uzaklykdaky zatlary  görmek üçin  onuň okulýaryny  näçe süýşürmeli?
+	 16)Iň gowy  görýän  aralygy  10 sm  bolan şowa  gözli adam nähili äýnek geýmeli. Äýnegiň optiki güýjüni dioptriada aňlatmaly.
+	 17)Şowa gözli adam,  kitaby  12,5 sm  aralykdan, äýnekli okaýar. Ol optiki güýji näçe deň bolan äýnek dakynmaly?
+	 18)Doly  içki serpikmesiniň  çäk burçy 420  bolan maddanyň doly polýarlanma burçy näçe deň? 
+	 19)Howadan daş  duzunyň kristalyna  düşýän  ýagtylyk üçin Brýusteriň burçy      570.  Bu kristalda ýagtylygyň ýaýraýyş tizligini kesgitlemeli.
+	 20)Iki  nikolyň baş  tekizlikleri arasyndaky burç  300. Eger baş tekizlikler arasyndaky burç 600 edilse, iki  nikoldan geçen ýagtylygyň depgini nähili   üýtgär?
+	 21)Natriniň sary  çyzygy ( λ = 5893 · 10-10m )  üçin kadaly  şertlerde, howanyň döwme görkezijisi,  1,0002918.300S   temperaturada we 3 · 106 Pa basyşda, howanyň döwme görkezijisini kesgitlemeli.
+	 22)Eger prožektor  0,5 km  uzaklykdan 960  lk  ýagtylandyryş,  2,5 km uzaklykdan 32 lk ýagtylandyryş döredýän  bolsa,  atmosferanyň her kilometri düşýän ýagtylyk akymynyň näçe  ülşüni geçirer?  
+	 23)Eger erginiň  geçirme  koeffisiýenti   τ=0,3 bolsa, onuň  optiki   dykyzlygy näçe deňdir? 
+	24)Topar  tizligini ( U ) faza tizliginiň  (ϑ) we faza tipliginiň disperiýasynyň üsti bilen hem-de  fazla tizliginiň  we  döwülme  görkejisiniň ( n ) disperiýasynyň    üsti  bilen  aňlatmaly. 
+	 25)Dumanlygyň  (gür ýyldyz) Ýere görä  hereketlenmegi netijesinde, onuň spektrindäki wodorodyň  λ = 656,3 nm tolkun uzynlygy 102 0A ulalýan bolsa, dumanyň Ýere görä  şöhle tizligini kesgitlemeli.
+	 26)( T = 300 K )  temperaturada  wodorod  atomynyň  şöhlelenmesiniň spektral çyzygynyň  Dopler  effekti zerarly  △λ  / λ  giňelmesini hasaplamaly.
+	 27)Alfa bölejikleriniň dessejiginiň ugry  boýunça  seredilende  geliniň  λ=49220A tolkun uzynlykly  spektral çyzygynyň  has uly dopler  süýşmesi   80A  bolan bolsa,  geliniň  razrýad  turbajygynyň elektrodynda  döredilen polensiallaryň tapawudy näçe?
+	 28)( T = 300 K ) temperaturada wodorod atomynyň şöhlelenmesiniň spektral  çyzygynyň Dopler  effekti zerarly  △λ  / λ   giňelmesini hasaplamaly.
+	 29)Atomlary  erkin hereketlenip bilýän gyzgyn çeşmelerde, atomlar  ýylylyk hereketini ýerine ýetirýärler. Bu bolsa Dopler effekti sebäpli, atomlaryň şöhlenenmesiniň  spektral çyzygynyň giňelmesine getirýär. Spektral çyzygyň Dopler giňelmesi hökmünde, çyzgyň ýarym  giňligi  alynýar. Günüň                                ( T = 5700 K ) atmosferadaky wodorodyň  48610A  tolkun uzynlykly çyzygynyň dopler giňelmesini hasaplamaly.  
+	 30)14,50S   temperaturada  we kadaly  atmosfera basyşynda  natriniň sary çyzygy üçin howanyň  döwme  görkezijisi  1,0002929. Şol temperaturada we 28,6 atmosfera basyşynda howanyň döwme görkezijisini kesgitlemeli.

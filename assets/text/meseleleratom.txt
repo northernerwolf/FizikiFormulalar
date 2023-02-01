@@ -1,0 +1,33 @@
+1.Wadorodyň atomy iň ýeňil atomdyr. Onuň otnositel atom massasy 1,008. Onda molýar massasy M=1,008*10-3 kg/mol. Wodorodyň atom massasyny kesgitlemeli.
+2.Rezerfordyň tejribesinde α bölejigiň energiýasy 5*106 eW bolsa, ol altynyň ýadrosy näçe aralyga ýakynlaşyp biler?
+3.Eger α bölejigiň energiýasy 0.4 MeW bolsa, ol kümüşiň ýadrosy  nähili iň ýakyn  aralyga çenli ýakynlaşar?
+4.Energiýasy 1 eW den bolan α bölejigiň tizligini tapmaly.
+5.Wodorodyň atomynda elektronyň birinji aýlaw orbitasynyň radiusyny tapmaly.
+6.Wodorodyň atomynda elektronyň n-nji (n=1) durnukly (stasionar) orbitasynyň radiusy rn=0.53*10-10m. Birinji orbitadaky elektronyň çyzyk tizligini kesgitlemeli. Elektronyň orbitasyny tegelek diýip hasap etmeli.
+7.Wodorodyň atomy bir energiýa haldan beýlekisine geçende şöhlelenmäniň tolkun uzynlygyny kesgitlemeli. Bu hallaryň energiýa tapawudy 1.892 eW.
+8.Wodorodyň atomynyň ikinji orbitadaky elektronynyň doly energiýasyny kesgitlemeli.
+9.Atom şöhlenenip tolkun uzynlygy 4.86-10-7m foton goýberende, wodorod atomynda energiýa näçe üýtgär?
+10.Görünýän ýagtylygyň ýygylygy 4*1014Gs-den 7.5*1014Gs-e çenliçäkde bolýar. Onuň tolkun uzynlygy nähili aralykda bolup biler?
+11.Rentgen şöhlesiniň ýygylygy 6*1016 Gs-den 7.5*1019Gs-e çenli çäkde bolýar. Onuň degişli tokun uzynlyklaryny kesgitlemeli.
+12.Tolkun uzynlygy 5*10-7 m bolan görünýän ýagtylyk fotonynyň massasyny kesgitlemeli.
+13.Robin lazeri bir impulsda tolkun uzynlygy 694 nm bolan 3.5*1019 fotonlary şöhlelendirýär. Eger şöhlelenmäniň goýberilme dowamlylygy 10-3 s bolsa, lazerde bir atylyp çykmanyň kuwwaty näçe?
+14.Tizligi ʋ=1.6*106 m/s bolan α bölejigiň dynçlykdaky seziý ýadrosyna iň ýakyn baryp biljek aralygyny kesgitlemeli. Α bölejik seziý ýadrosynyň merkezinden geçýän göni boýunça hereket edýär diýip hasap etmeli.
+15.Wodorodyň atomynyň ionlaşma energiýasynyň E=13.6 eW deňdiginden peýdalanyp, Tomsanyň modeli boýunça wodorod atomynyň radiusyny kesgitlemeli.
+16.Azot atomyny ionlaşdyrmak üçin E=14.53 eW energiýa gerek. Ionlaşma döredilip biljek fotonyň tolkun uzynlygyny kesgitlemeli.
+17.Wodorodyň atomynyň şöhlelendirýän görünýän spektriniň iň kiçi energiýaly fotonynyň massasyny we impulsyny kesgitlemeli.
+18.Wodorod atomy oýandyrylanda diňe bir sany spektral çyzgy şöhlelendirmegi üçin onuň şöhlelendirýän fotonyň energiýasy haýsy çäkde bolmaly?
+19.Esasy haldaky wodorod atomy fotony siňdirende, onuň elektrony ʋ=4*106 m/s tizik bilen atomdan atylyp çykýar. Atomyň siňdiren fotonynyň ýygylygyny tapmaly.
+20.Esasy halda dynçlykda duran wodorodyn atomy fotony siňdirmek bilen n=3 hala geçýär. Siňdirilen fotonyň ýygylygyny we atomynyň tizligini kesgitlemeli.
+21.Alýuminiý α-bölejik bilen bombalananda alýumiýniň ýadrosy ((_13^27)Al) α-bölejigi tutup alyp, protony goýbermegi mümkin. Şeýle ýadro reaksiýasynyň deňlemesini ýazmaly.
+22. α-bölejigiň täsirinde bolup geçýän (_3^7)Li+(_2^4)α→?+(_2^3)He ýadro reaksiýasyny doly ýazmaly. Näme emele geldi?
+23.Neýtronyň ((_0^1)n) täsirinde bolup geçýän (_5^10)B+(_0^1)n→?+(_2^3)He ýadro reaksiýasyny doly ýazmaly. Näme emele geldi?
+24.Pratonyň ((_0^1)p) täsirinde bolup geçýän (_25^55)Mn+(_1^1)p→?+(_0^1)n ýadro reaksiýasyny doly ýazmaly. Näme emele geldi?
+25.Atom ýadrosynyň göwrümi V, ol atomynyň massasyna A proporsionaldyr (V=V1A, V1=2*10-44 m3-nuklonyň ortaça göwrümi). Alýuminiý atomynyň ýadrosyndaky maddanyň dykyzlygyny tapmaly we alýuminiň dyyzlygy bilen deňeşdirmeli. Massa defektini hasaba almaly däl.
+26.Ýadro üç protondan we dört neýtrondan ybarat bolup, baglanşyk energiýasy 39.33 MeW. Mn=1.675*10-27kg, mp=1.672*10-27kg. Neýtral atomyň massasyny kesgitlemeli.
+27.Uglerodyň (_6^12)C neýtral atomynyň massasy 19.9272*10-27 kg bolsa, ýadronyň udel baglanşyk energiýasyny kesgitlemeli.
+28.Brom ((_35^79)Br) atomynyň radiusy onuň ýadrosynyň radiusyndan näçe esse uly?
+29.Ýadro maddasynyň orta dykyzlygy ähli ýadrolar üçin birmeňzeşdigini görkezmeli we onuň san bahasyny tapmaly.
+30.Ýeriň massasy üýtgedilmäni dykyzlygy ýadronyň dykyzlygyna getirilse, onuň radiusy näçe bolar?
+
+
+

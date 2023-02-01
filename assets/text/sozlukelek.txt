@@ -1,0 +1,138 @@
+         ELEKTRIK WE MAGNIT HADYSALARY
+AKKUMULÝATOR-himiki täsirleşmäniň energiýasynyň hasabyna alynýan elektrik akymynyň we E.H.G. çeşmesi.
+AKTIW, IŞJEŇ GARŞYLYK-üstünden elektrik akymy geçende ýylylyk bölünip çykýan garşylyk. 
+AKTIW, IŞJEŇ KUWWAT-işjeň garşylykda wagt birliginde harçlanan energiya. 
+AMPER (A)-elektrik akymynyň güýjüniň HU-da ölçeg birligi. IA- wakuumda bir-birinden 1 m daşlykda ýerleşen özara parallel uzyn, inçe simlerden akyp, olaryň arasynda her metrine 2-10 N magnit özara täsir güýjüni döredýän elektrik akymynyň güýji. Fransuz alymy Andre Mari Amperin (1775-1836) hatyrasyna atlandyrylýar. 
+AMPERIN KANUNY-elektrik akymlaryň özara magnit täsirini aňladýan kanun (magnit meýdanynda elektrik akymly geçirijä täsir edýän güýç (F) elektrik akymynyň güýjüne (7), magnit induksiýasyna (B), geçirijiniň magnit meýdanyna dikana ýerleşen uzynlygyna () göni proporsionaldyr. FIB (sina, a-magnit induksiýa wektory (B) bilen elektrik akymynyň ugrunyň arasyndaky burç. 
+AMPERMETR-elektrik akymynyň güýjüni ölçeýän abzal. Elektrik zynjyryna yzygider birikdirilýär. Zynjyrdaky ölçelýän elektrik akymy üýtgemez yaly A. içki garşylygy juda kiçi bolmaly. 
+ANIONLAR-elektrolitik dissosiasiya zerarly dörän, anoda tarap hereket edýän otrisatel zarýadly ionlar. 
+ANOD-elektrik akymynyň çeşmesiniň onuň polýusy bilen birleşdirilen elektrod ýa-da ion abzalynyň elektrody, elektrik akymynyň çeşmesiniň položitel elektrody; elektrik dugasynyň položitel elektrody.
+ANTIPROTON-massasynyň we zarýadynyň ululygy protonyňky ýaly, ýöne otrisatel zarýadlanan elementar bölejik. 
+AŞA GEÇIRIJI -juda az garşylykly geçiriji. Absolýut nola (-273,15'S) golaý temperaturalarda geçirijiler şeyle bolýarlar. Häzirki döwürde ýokary temperaturalarda-da A. g. alynýar.
+AŞA GEÇIRIJILIK-geçirijileriň adaty haldan aşa geçiriji hala geçme hadysasy, ony 1911-nji ýylda Daniýaly alym Komerling Onnes açýar. Häzirki wagtda maddalaryň A. g. hala geçmekligini has ýokary temperaturada amala aşyrmaga çalyşýarlar.
+ATMOSFERA ELEKTRIGI-atmosferada zarýadly bölejikleriň barlygy we olaryň özara täsirleri bilen baglanyşykly bolup geçýän elektrik hadysalary.
+ATOM ELEKTROSTANSIÝASY - ýadro täsirleşmeleriň netijesinde bölünip çykýan energiýanyň hasabyna elektrik energiýasyny öndürýän desga.
+AWOMETR-ampermetrden, woltmetrden we ommetrden ybarat bolan ölçeýji abzal.
+ AWTO YRGYLDY -yrgyldyly ulgamyň içinde ýerleşen energiýa çeşmesiniň hasabyna bolup geçýän yrgyldy. 
+AWTOELEKTRON EMISSIÝASY - güýçli elektrostatiki meýdanyň täsiri bilen bolýan elektron emissiýasy.
+ BAGLANYŞYKLY ZARÝADLAR-dielektrikler polýarlananlarynda döreýän zarýadlar. Bu zarýadlar molekulanyň çäklerinde özara baglanyşykly bolup, olardan erkin haldaky aýratyn položitel we otrisatel zarýadlary alyp bolmaýar. 
+BETATRON-zarýadly bölejikleri aýlawly induksion tizlendiriji. Elektronlary 50Mew (Megaelektronwolt) energiya çenli tizlendirmek üçini niýetlenen.
+BURAWJYGYŇ DÜZGÜNI - elektrik akymynyň magnit meýdanynyň ugruny kesgitlemek üçin ulanylýan düzgün.
+a) Burawjygyň öňe hereketi göni elektrik akymynyň ugry bilen gabat gelse, sapynyň hereket ugry magnit meýdanynyň ugruny görkezer. 
+b) Burawjygyň sapy aýlaw elektrik akymynyň ugruna hereket etse, onuň öňe hereketi magnit meýdanynyň ugruny görkezer.
+ÇEP ELIŇ DÜZGÜNI-Amperiň güýjüniň ugruny anyklamak üçin ulanylýan düzgün: çep eliň aýasyna tarap magnit induksiýasy ugrugyp, öň barmagyň ugry geçirijide elektrik gönügse, barmagyň ugry Amperiň güýjüniň ugruny görkezýär.
+DAŞGARY GÜÝÇLER-tebigaty elektrik häsiýetsiz güýçler. 
+DEŞIKLI GEÇIRIJILIK-aramgeçirijileriň geçirijiliginiň bir görnüşi D. g. zarýady esasy äkidijiler «deşiklerdir». Deşikli geçirijilikde elektrik akymy, esasan, deşikleriň hereketi bilen yüze çykýar.
+DETEKTOR - ýokary ýygylykly modulirlenen elektromagnit yrgyldylaryny özgerdip, olaryň düzüminden pes ýygylykly peýdaly yrgyldyny alýan abzal. Şu niyet üçin wakuum ýa-da aramgeçiriji diodlar peýdalanylýar. 
+DIAMAGNETIK - magnit meýdanyna eltilende oňa garşylykly doly kompensirlenen. DIAMAGNETIZM-islendik madda magnit meýdanyna eltilende onda daşky meýdanyň ugruna garşylykly ugrugan goşmaça magnit meýdanyň döremegi bilen baglanyşykly hadysa.
+DIPOL-a) Ululyklary deň, alamatlary ters, belli bir aralykda özara jebis baglanyşykly iki nokatlanç zarýaddan ybarat ulgama elektrik dipoly diyilýär. b) Ölçegleri oña garalýan aralyga görä juda kiçi bolan aýlaw elektrik akymyna magnit dipoly diýilýär.
+DIPOL MOMENTI-dipolyň elektrik (magnit) häsiýetnamasy.
+DIELEKTRIK - elektrik akymyny erbet geçirýän madda. 
+DIELEKTRIK SYZYJYLYGY-wakuumda elektrik meýdanyna eltilen dielektrigiň onuň dartgynlygyny näçe esse peseldýändigini görkezýän 
+DIELEKTRIGIŇ POLÝARLANMASY-elektrik meýdanynyň täsiri astynda Dielektrikde polýuslaryň (položitel we otrisatel zarýadlanan üstlerin) döremegi.
+a) Polýar däl dielektrikde elektrik meýdanynyň täsiri astynda atomyň elektronlary meýdanyň ugrunyň tersine süýşýärler we atom polýarlanýar (Elektron polýarlanmasy).
+b) Polýar dielektriklerde elektrik meýdanynyň täsiri astynda molekulanyň elektrik dipoly meýdanyň ugry boýunça ugrukdyrylýar (Ugrukma polýarlanmasy).
+DOMENLER - öz-özünden (spontan) doýgunlanma çenli magnitlenen oblastlar. Domenler ferromagnit we segnetoelektrik maddalarda bolýarlar. 
+EKWIPOTENSIAL ÜST - potensiallary birdeň nokatlaryň geometrik orny (Birmeňzeş potensially nokatlary özara birleşdirende alynyan üst).
+ELEKTRIK GALMAGALY-geçirijilerde elektronlaryň bitertip (haotik) hereketleriniň döredýän mikroelektrik akymlarynyň güýçlenip döredýän özboluşly naprýaženiýeleri (galmagaly) 
+ELEKTROMAGNIT ÖZARA TASIRI-zarýadly jisimleriň (bölejikleri) arasyndaky özara täsir. Aýratyn häsiyetleri: uniwersal däl intensiwligi boýunça güýçli täsirden soň ikinji orunda; daş aralyga ýaýraýar. 
+ELEKTROLITIK DISSOSIASIÝA (zarýadsyz) molekulalarynyň ionlara dargamasy.
+ELEKTRIK IZOLÝATORY - elektrik akymyny geçirmeýän madda.
+ELEKTRIK KONDENSATORY-özara elektrik baglanyşykly we bir-birinden üzňeleşdirilen iki ýa-da ondan-da köp geçirijileriň ulgamy. Kondensator zarýadlary toplamak üçin ulanylýar. Üzňeleşdirijiniň tebigatyna baglylykda howa, keramiki, kagyz, elektrolitik we ş.m. kondensatorlar bolýar. Geçirijinin görnüşine baglylykda tekiz, silindrik, sferik kondensatorlar bolýarlar. Sygymy üýtgemeýän, giñ aralykda üýtgeýän we sazlaýjy kondensatorlar bolýarlar.
+ELEKTRIK NAPRÝAŽENIÝE - zynjyryň iki nokadynyň potensiallarynyň tapawudyny ýa-da zynjyryň berlen böleginiň garşylygyny (R) ýeňip geçmek üçin naprýaženiýe çeşmesiniň edýän işi. U=IR, bu yerde U-elektrik naprýaženiýe, I- elektrik akymynyň güýji, R- -geçirijinin garşylygy.
+ELEKTRIK MEÝDANYNYŇ GÜÝJENMESI - elektrik meýdanynyň güýç häsiýetnamasy.
+ELEKTRONYŇ ÇYKYŞ IŞI-metallardan elektronyň çykmagy üçin ýerine ýetirmeli işi. A-e.Ap, bu yerde A-elektronyň çykyş işi, e- elektronyň zarýady, Ap-çykyş potensiallaryň tapawudy.
+ELEKTRIK REZONANSY-mejbur ediji täsiriň ýygylygy yrgyldyly konturyň hususy yrgyldysynyň ýygylygyna gabat gelende konturda naprýaženiýäniň (ýa-da elektrik akymyň) iň uly baha eýe bolma hadysasy.
+ELEKTRIK GARŞYLYGY-ser. Garşylyk.
+ ELEKTRETLER-daşky meýdanda elektriklenip, elektriklendiriji meýdanyň täsiri kesilenden soň, öz hususy elektrik meydanyny uzak wagtlap saklaýan dielektrik maddalar. Şeýle häsiýet segnetoelektriklerde ýüze çykýar. Edil hemişelik magnitleriň magnit meýdanynyň çeşmesi hökmünde ulanylyşy ýaly, elektretler hemişelik elektrik meýdanynyň çeşmesi hökmünde ulanylýar. 
+ELEKTRIK DUGASY-özbaşdak gaz elektrik akymynyň biri.
+ELEKTRIK SYGYMY-ser. Sygym.
+ELEKTRIK ZYNJYRY-elektrik akymynyň döremegi üçin gerek bolan abzaldyr enjamlardan durýan ulgam. Olara elektrik akymynyň çeşmesi, kabul ediji, ölçeg abzallary, birikdiriji simler girýär. Elektrik zynjyry daşky we içki bölekden durýar: içki bölege elektrik akymynyň çeşmesi girýär, daşky bölege zynjyryň galan bölegi girýär.
+ELEKTROMAGNIT YRGYLDYLARY - üýtgeýän elektrik meýdanynyň üýtgeýän magnit meýdanyna we tersine geçmek hadysasy. Şeyle hadysa yrgyldyly konturda amala aşyrylýar.
+ELEKTRIK GENERATORY - mehaniki energiýany elektrik energiýasyna öwürýän abzal. Generator rotordan, statordan durýar. Elektrik generatory elektromagnit induksiýa hadysasy esasynda işleýär. Stator hemişelik magnit meýdanyny döredýär. Rotora sargylar saralyp, ol aylananda magnit akymy üýtgäp induksiýanyň e.h.g. döreýär. 
+ELEKTRIK HEREKETLENDIRIJI - elektrik energiýasyny mehaniki energiýa öwürýän abzal. Magnit meýdanynda elektrik akymly geçirijä Amperiň güýji täsir edip ony herekete getirýär.
+
+ELEKTRIK ZARYADY-ser. Zarýad.
+ELEKTRIK POLYARLAŞMASY-elektrik meydanynyň täsiri astynda dielektriklerde položitel we otrisatel zarýadlaryň bölünip, polýuslaryň döremegi.
+
+ELEKTRON POLÝARLAŞMASY-elektrik meýdanynyň täsiri astynda atomlaryň elektronlarynyň meýdanyň tersine süýşüp, polýuslaryň döremegi. Şeýle polyarlaşma polýar däl molekulalardan düzülen dielektriklerde ýüze çykýar.
+
+ELEKTRIK HADYSALARY-elektrik zarýadlarynyň barlygy,hereketi we olaryň özara täsiri bilen baglanyşykly hadysalar.
+ ELEKTROWAKUUMLY ABZALLAR-wakuumda elektronlaryň elektrik we magnit meýdanlaryndaky hereketine esaslanyp işleýän abzallar(elektron cyralary, elektron şöhle turbasy, kineskop we ş.m.).
+
+ELEKTRIK MEYDANY - elektromagnit meýdanynyň ýüze çykyşynyň bir görnüşi-materiýanyň bir görnüşi. Elektrik zarýadlarynyň täsirini geçiriji maddy gurşaw. Gozganmaýan elektrik zaryadlary elektrik meýdanynyň çeşmesidir.
+ ELEKTRIK HEREKETLENDIRIJI GÜÝÇ (EHG) - naprýaženiye çeşmesini häsiýetlendirýän ululyk. San taýdan daşgary güýçleriň položitel zarýad birligini ýapyk elektrik zynjyrynyň boýuna süýşürmek üçin A edýän işine deň. ε= bu yerde - EHG, 4-daşgary güýçleriň işi, 9, süyşürilýän položitel synag zarýady. Ölçeg birligi IW. EHG woltmetr bilen ölçelýär. Onuň üçin üzük zynjyrda woltmetri naprýaženiýe çeşmesinin klemmalaryna (uçlaryna) birikdirmeli.
+
+ELEKTRODINAMIKA - elektrik zarýadlarynyň hereketi bilen baglanyşykly hadysalary öwrenýän fizikanyň bölümi.
+ELEKTROLIZ-elektrolitlerden elektrik akymy geçende elektrolitiň maddasynyň elektrodlarda bölünip çykmagy.
+ ELEKTROLITLER-özlerinde duýarlyk konsentrasiýaly ionlary saklaýan suwuk ýa-da gaty maddalar we ulgarlar. Erginde ionlara dargayan maddalar, mysal üçin, elektrik akymyny geçirýän duzlaryň, asgarlaryň we kislotalaryň suwdaky erginleri bar.
+
+ELEKTROMAGNIT INDUKSIYASY-magnit meýdany üýtgände onun töwereginde üýtgeýän elektrik meýdanynyň döremegi. Kähalatlarda elektromagnit induksiya magnit meýdany üýtgände yrgyldyly zynjyrda induksiya elektrik akymynyň döremegi hem diýilýär. Soňky kesgitlemede sebäp bilen netije orunlaryny çalyşýarlar, elektrik akymynyň döremegi netije bolup, onun döremeginiň sebäbi magnit meydanydyr. Yapyk yrgyldyly zynjyr hakykatda magnit meydany üýtgeýän elektrik meydanynyň döreýändigini görkezijidir.
+ELEKTROMAGNIT MEYDANY - zaryadly bölejikleriň we elektrik akymlaryň özara täsirlerini geçiriji maddy gurşaw, materiýanyň meydan görnüşleriniň biri. Üýtgeýän elektrik we magnit meydanlarynyň ulgamy.
+ELEKTRON EMISSIYASY - maddalardan (metallardan) Bu işi yerine yetirmek üçin elektrona yeterlik energiya bermeli. Bu elektronlaryň çykmagy. Elektronlaryň metaldan çykmagy üçin iş etmeli. energiyanyň berlişine baglylykda: termoelektron emissiýasy, awtoelektron emissiýasy, fotoelektron emissiýasy, katodoelektron emissiyasy tapawutlandyrylýar.
+ELEKTRON ŞÖHLESI-elektron akymynyň ince dessesi. 
+ELEKTRON ŞÖHLE TURBASY - elektron akymynyň inçe dessesinin (elektron şöhlesi) hereketini dolandyrmak arkaly elektrik yrgyldylaryna gözegçilik etmek üçin ulanylýan abzal. Wakuumlanan turbanyň içinde elektron topy, diafragma, tizlendiriji we fokusirleýji anod, kese we dik ugurlar boýunça elektron şöhlesini gyşardyjy plastinalar we lyuminissirleýji ekran bar. 
+ELEKTRON GAZY-metallarda erkin elektronlaryň toplumy Adaty gazlardaky molekulalaryň wezipesini erkin elektronlar yerine yetirýärler. Elektron gazy üçin adaty gaz kanunlary kanagatlandyrylýar diýip kabul edilýär.
+ELEKTRON MIKROSKOPY - elektron şöhlesinin hereketini elektrik we magnit meýdanlarynyň kömegi bilen dolandyryp, ownuk zatlary ulaldyp görkezýän abzal. Onuň ulaldys koeffisiyenti adaty optiki mikroskopyňkydan bimäçe müñ esse uludyr.
+ELEKTRIK GEÇIRIJILIGI-metallaryň elektrik geçirijiligi juda uly bolup, (>10 Om m), erkin elektronlaryň barlygy bilen düşündirilýär. Temperaturanyň artmagy bilen peselýär. Dielektrikler elektrigi erbet geçirýärler (<10 Omm). Aramgeçirijilerin geçirijiligi 10-den uly, 10°- -dan kiçi. Elektrolitleriň elektrik geçirijiligi uludyr. Olarda elektrigi äkidijiler ionlardyr (ser. Geçirijilik.).
+ELEKTROSKOP-jisimleriň zaryadlylygyny görkeziji abzal. Biratly zaryadlanan ýeňiljek ýaprajyklaryň özara itekleşmesi elektroskopyň işleýşinin esasynda ýatýar. ELEKTROSTATIKA-bir-birine görä gozganmayan zaryadlaryň özara täsirleri bilen baglanysykly elektrik hadysalary öwrenýän fizikanyň bir bölümi. Zaryadlaryň berlen yerleşişi boýunça olaryň döredýän elektrik meýdanyny hasaplamak elektrostatikanyň esasy wezipesidir. E. elektrik meýdanynyň güýjenmesinin (ya-da potensialynyň) giňişlikde paýlanylyş kanuny belli bolsa, şeyle meydany döredýän zaryadlaryň ýerleşiş kanunyny hem tapmaga mümkinçilik berýär.
+ELEKTROSTATIKI INDUKSIYA - daşky elektrostatik meýdanyň täsirinde geçiriji jisimde elektrik zaryadlarynyň paýlanma hadysasy
+ELEKTROSTATIKI MEYDAN-özara gozganmayan (tizligi nola deň bolan) zaryadlaryň döredýän meydany. 
+ELEKTRIK AKYMY - zaryadly bölejikleriň ugrukdyrylan hereketi.
+ELEKTRIK AKYMYNYŇ UGRY - položitel zaryadlaryň hereket edýän ugry elektrik akymynyň ugry hökmünde kabul edilen.
+ ELEKTRIK AKYMYNYŇ GÜÝJI-geçirijinin kese-kesiginden wagt birliginde akyp geçýän elektrik zaryady: I-q/t, bu yerde I-elektrik akymynyň güýji, q- elektrik zarýady, t-wagt. Ölçeg birligi - 1 A. Elektrik akymynyň güýjüni ölçeýän abzala ampermetr diýilýär. 
+ELEKTRIK AKYMYNYŇ DYKYZLYGY-geçirijiniň kese-kesiginiň meydan birliginden wagt birliginde akyp geçýän elektrik zarýady. 
+ELEKTRIK AKYMYNYŇ ÇEŞMESI-daşgary (tebigaty elektrik dal) güçleriň işi netijesinde elektrik naprýaženiyesini döredýän gurluş (akkumulyator, galwaniki element, termoelektrik generatory we başgalar).
+ELEKTRIK AKYMY DÖREDIJILER-hereketi bilen elektrik akymyny döredýän zaryadly bölejikler.
+ENERGIYA ZOLAKLARY (ZONALARY) - kristallik gaty jisimlerde elektronlaryň eyelüp biljek energiyalarynyň toplumy. ERKIN ZARYADLAR - maddanyň çäklerinde ornuny erkin üýtgedip bilýän zaryadlar. Metallarda elektronlar, elektrolitlerde ionlar.
+FARADEYIN KANUNLARY- 1-nji kanun: elektroliz wagtynda elektrodda bölünip çykýan maddanyň massasy (m) elektrolitden geçen elektrik zaryadyna (q) göni proporsional, m=kq, bu yerde k-maddanyň elektrohimiki ekwiwalenti. 2-nji kanun: maddanyň elektrohimiki ekwiwalenti (k) onun himiki ekwiwalentine (x = A/z) göni proporsional. k = CA/z, bu yerde A-maddanyň atom massasy, z-onuň walentliligi, C-proporsionallyk koeffisiyenti. I/C-F- -Faradeýin hemişeligi.
+FARADEYIN HEMIȘELIGI-(F=96500 Kl/mol)-elektroliz wagtynda elektrodda maddanyň himiki ekwiwalentine san taýdan deň bolan massasynyň bölünip çykmagy üçin elektrolitden geçmeli elektrik zarýady.
+FERROMAGNETIK - magnit häsiyetleri demiriñkä menzeş maddalar. Ferromagnetigiň adaty paramagnetikden käbir üýtgeşikligi bar. magnit syzyjylygy juda uly; magnit häsiyetinde anizotropiýa bar, belli bir temperaturada adaty paramagnetige öwrülýär (Kýuri temperaturasy); magnit gisterezisi bar, magnit syzyjylygy daşky magnit meýdanynyň induksiýasyna bagly; diñe Kýuri temperaturasyndan aşakda kristallik ýagdaýda bolýan madda.
+FERROMAGNETIZM-ferromagnetik maddalarda yüze çykýan magnetizm. Kristallik ýagdaýda Kyuri temperaturasyndan aşakda yüze çykýar. Ferromagnetizm elektronlaryň spin magnetizmi bilen düşündirilýär. Goňsy atomlardaky spin magnit momentleri kompensirlenmedik elektronlar özara elektrostatik täsir astynda doygun mägnitlenmä çenli magnitlenen oblastlary-domenleri döredýärler. Domenlerin bolmagy ferromagnetizmiň esasy aýratynlygydyr.
+FOTOELEKTRON EMISSIYASY-yagtylyk akymynyň metaly üstüne düşüp, ondan elektronlary cykarmasy. 
+GALWANOMETR-kiçi ululykly elektrik akymyny, napraženiýni, elektrik zaryadyny ölçemek üçin ulanylýan duygur abzal. 
+GALWANOMAGNIT HADYSALARY-üstünden elektrik akymy geçýän gaty jisimlerin elektrik häsiyetlerine magnit meýdanynyň täsiri bilen baglanysykly hadysalar.
+GALWANIKI ELEMENT-himiki täsirleşmäniñ energiýasynyň hasabyna alynyan elektrik naprýaženiyesinin çeşmesi. 
+GARYNDYLY GEÇIRIJILIK - arassa dal aramgeçirijilerin elektrik geçirjiligi; garyndysy bolan aramgeçirijide elektron we deşikli geçirijilik bolýar. 
+GAZLARDA ELEKTRIK AKYMY-gazlarda elektronlaryň we jonlaryň hereketleri bilen baglanyşykly hadysalar (elektrik uçguny, elektrik dugasy, köreýän elektrik akymy we başgalary). 
+GARSYLYK-geçirijiniň elektrik akymyna görkezýän garşylygy. 
+GARSYLYK TERMOMETRI - metallaryň, splawlaryň, aramgeçirijileriň garşylygynyň temperatura baglylygynyň esasynda taýýarlanan temperatura ölçeýji abzal.
+GEÇIRIJI ELEKTRIK AKYMY-zaryadly bölejikleriň hereketi bilen dörän elektrik akymy. 
+GEÇIRIJILER- elektrik akymyny oňat geçiriji maddalar. Bu maddalarda erkin hereket edip bilýän zaryadly bölejikler bar. G. metallar,elektrolitler degişlidirler.
+GENRI (Gn)-induktivligin ölçeg birligi. I Gn-üstünden IA elektrik akymy geçende kese-kesiginin meydany boyunca 1Wb magnit akymy döredýän geçirijinin induktivligi ýa-da üstünden akýan elektrik akymy 1 sekuntda 1 ampere üýtgände uçlarynda öz-özünde induksiýasynyň 1 W deň elektrik hereketlendiriji güýji döreýän geçirijinin induktivligi. Amerikan alymy G.R. Genrinin (1797-1878) hatyrasyna dakylan at. 
+GISTEREZIS-funksiýanyň üýtgeýiş tizliginiň argumentinkidenyza galma hadysasy, mehaniki, dielektrik we magnit gisterezisleri bolýar. 
+GYSGA UTGAŞMA (G. u.)- doly (yapyk) elektrik zynjyrynda dasky zynjyr bölegindaki garçylygynyň nola ymtylandaky ýagdaýy bu yerde ɛ - elektrik akymynyň çeşmesiniň EHG, r- elektrik akymynyň çeşmesinin içki garşylygy. 
+HEMISELIK ELEKTRIK AKYMY-wagtyň geçmegi bilen ululygy (güýji) we ugry üýtgemeýän elektrik akymy. 
+INDUKTIW GARSYLYK-induktivligi bolan geçirijinin üýtgeýän elektrik akymyny görkezýän garşylygy. R, L, bu yerde R-induktiw üytgeýän elektrik akymynyň aýlaw ýygylygy, L-geçirijinin garsylyk, induktivligi. 
+INDUKTIWLIK - üstünden geçýän elektrik akymy aytgande geçirijinin uçlarynda öz-özünden induksiýanyň EHG-ni döredip bilmek 
+INDUKTIW TEGEK-zynjyryň beýleki böleklerine garanynda özünde uly induktiwligi jemlän tegek. 
+IONLAŞMA-bitarap (elektroneytral) atomyñ ýa-da molekulanyň ukyby zaryadlanma hadysasy.
+IONLAR-zaryadlanan atom, molekula ýa-da olaryň toplumy. lon položitel ýa-da otrisatel zaryadly bolýar. Atomdan elektron aýrylsa ol položitel iona öwrülýär. Atoma goşmaça elektron birikse ol otrisatel iona öwrülýär. Ionlar elektrolitik dissosiasiyada hem döreýär. Onda bitarap molekula ony düzýän ionlara dargaýar.
+
+IONLAŞMA ENERGIYASY-bitarap atomy iona öwürmek üçin harçlanan energiya. Bu energiya elektron bilen yadrodaky protonlaryň çekiş güyjuni (ýa-da baglanysyk energiýasyny) ýeňmek üçin harçlanýar. Her bir atomyň ionlaşma energiýasy jedwelde berilýär. ionlaşma energiýasyny
+IONLAŞMA POTENSIALY-elektrony alyança tizlendirmek üçin gerek bolan elektrik meýdanynyň potensialy. 
+IONOSFERA-Yer atmosferasynyň ýokary ionly gatlagy. 
+IONYŇ ZARYADY-ionyň zaryadynyň ululygy we alamaty.
+JOUL-işiň HU-da ölçeg birligi. Iñlis alymy Joulun hatyrasyna dakylan at. 
+JOULUN-LENSIN KANUNY-geçirijiden elektrik akymy geçende onda bölünip çykýan ýylylyk mukdary Q elektrik akymynyň güyjni kwadratyna (), geçirijinin garşylygyna (R) we wagta (7) göni proporsional U Q=1 Rt= R 1. bu yerde U-naprýaženiýe.
+KATOD - otrisatel zaryadly elektrod; wakuum we aramgeçinj cyralarda, naprýaženiýe çeşmelerinde, elektrolitik wannalarda we sm ulanylýar. Wakuum cyralarynda katod gyzdyrylyp elektron emissiyasy döredilýär. Göni ýakylýan katodda elektrik akymy gös-göni katod siminden akyp ony gyzdyrýar. Keseden ýakylýan katodda elektrik akymy gös-gön katoddan akmaýar. Başga simden (gyzdyryjydan) akyan elektrik akymy katody gyzdyrýar.
+KATOD EMISSIYASY - yeterlik energiya çenli tizlendirilen bölejiklerin katoda urlup ondan elektronlary çykarmasy.
+MAKSWELLIN DEŇLEMELERI – giñişligin islendik nokadynda wagtyn berlen pursatynda elektromagnit meýdanynyň parametrleri bolan E-elektrik meydanynyň güýjenmesini we B-magnit induksiýasyny özara baglanysdyryan differensial denlemeler.
+POZITRON-massasy elektronyňka deň, zarýady ululygy boýunça edil elektronyňky ýaly, ýöne položitel alamatly elementar bölejik. Adatça, oňa elektronyň antibölejigi diyilýär.
+POLYARLAN(YS)MA WEKTORY - dielektrikleriň polýarlanysyny mukdar taýdan häsiyetlendirýän ululyk. Ol san taýdan dielektrigiň göwrüm birligindäki dipollaryň elektrik momentleriniň wektorlaýyn jemine deň:
+POTENSIAL-elektrik meydanynyň berlen nokadynyň potensialy bu nokat bilen tükeniksizlikde (elektrik meydanynyň duyulmayan nokatlar ulgamy) yerleşen nokadyn potensiallarynyň tapawudydyr. Tükeniksizlikdiki nokadyň potensialy nola deň diyip şertlenilen. 
+POTENSIALLARYŇ TAPAWUDY elektrik meýdanynyň energetik häsiyetnamasy. San taydan garalýan nokatlaryň aralygyna položitel zaryad birligini süýşürmek üçin harçlanan işe deň. Ölçeg birligi-wolt.
+POLYAR MOLEKULA - elektrik dipol momenti nola den däl molekula (E=0; P, 0). E-0 bolanda şeyle molekulalaryň çäklerinde položitel we otrisatel zaryadlaryň merkezleri gabat gelmän, belli bir aralykda yerleşýärler. Molekulada zaryad polyuslary bar.
+POLYAR DAL MOLEKULA-elekrtik dipol momenti nola deň molekula (E-0, P=0). Şeyle molekulalaryň çäklerinde položitel we otrisatel zaryadlaryň merkezleri özara gabat gelýärler. Molekulada zaryad polyuslary seljerilmeýär.
+PROTON - položitel zaryadly elementar bölejik. Ol atomyň yadrosynda yerleşýär. Zaryadynyň ululygy elektronyňka deň. q,-1,6 10 Kl. Massasy elektronyňkydan uly: m-1,67 107 kg-1836 m
+PULSIRLEYJI ELEKTRIK AKÝMY-wagtyn geçmegi bilen ululygy üýtgp, ugry üýtgemeýän elektrik akymy.
+PYEZOELEKTRIK HADYSASY-mehaniki basys astynda elektrik zaryadynyň döremegi. Käbir segnetoelektrik maddalarda yüze cykýar. Gramplastinkalarda ses yazgylaryny elektrik yrgyldylara öwürmek üçin ulanylýan pyezoelementler şu hadysanyň esasynda işleýärler.
+PYEZOELEMENT - sesi gaytadan döredýän abzal. Infe gramplastinkanyň ýodajyklaryndan ýöründe ol dik ses ýygylykly yrgyldy edip pýezoelemente periodik basgy edýär
+YER MAGNETIZMI-Yerin magnit meýdany bilen baglanyşykly hadysalar. Yer togalagy uly magnitdir. Onuň demirgazyk polyusy Yeriň Günorta geografik polyusy, Günorta polyusy bolsa Yeriň demirgazyk geografik polyusy bilen gabat gelýär. Yerin içindäki magnit meydanlary, atmosferadaky elektrik akymlary Yeriň magnit meýdanynyň bolmagynyň sebäbidir diýlen çaklamalar bar.
+ÝYLDYRYM-özbaşdak gaz elektrik akymy. Atmosferada bolup geçýän uçgun görnüşli gaz elektrik akymy. Ýyldyrym çakanda elektrik akymy örän uly bolup, onuň geçen yolundaky gurşaw ýokary temperatura çenli gyzýar, howanyň basysy çürt-kesik artýar we partlama ýüze çykýar. Bu güýçli partlamanyň sesi bulutdan-buluda serpigip ýaň-gök gübürdisi döreýär.
+ZARYAD (elektrik zarýady) - a) käbir sada bölejikleriň özara elektromagnit täsirinin depginini häsiyetlendirýän ululyk. b) elektromagnit özara täsiri yüze çykarýan käbir materiyalaýyn zat bolmagy mümkin.
+ZARYADLANMA - jisimleriň elektromagnit täsirini yüze cykaryan hadysa. Sürtme, induksiya, galtaşma arkaly jisimleri zaryadlandyryp bolýar. Elektron nazaryýet boýunça adaty ýagdaýda maddalarda elektronlaryň we protonlaryň sany deň. Şonuň üçin jisim zaryadsyz. Agzalan hadysalar netijesinde jisimde elektronlaryň sanyny adatdakydan kemeldip, ony položitel zaryadlandyryp bolýar. Elektronlaryň sanyny köpeltseň, jisim otrisatel zaryadlanar.
+ZARYADSYZLANMA-zaryadly jisimleriň otrisatel zaryadly jisim ýa-da bölejik bilen galtaşanda onuň zaryadsyz ýagdaýa geçmegi. Mysal üçin, ýyldyrym çakanda buludyň zaryadsyzlanmasy, zaryadly kondensatoryň obkladkalarynyň zaryadsyzlanmasy we başgalary.
+ZARYADLARYŇ SAKLANMA KANUNY - üzňeleşdirilen ulgamda zaryadlaryň algebraik jeminiň üýtgemeýändigini tassyklayan kanun
+ZARYADLY SADA BÖLEJIKLER-tebigatda erkin halda duş gelýän bölünmeýän in kiçi zaryadly bölejikler, tebigatda zaryady durnukly sada bölejiklere elektron, proton, pozitron degişlidir.
+ZARYADLY SADA BÖLEJIKLERI TIZLENDIRIJILER- zarýadly bölejiklere gerekli kinetik energiya berýän desgalar. Olara çyzykly elektrostatik tizlendirijisi, siklotron, betatron, sinhrotron, sinhrofazatron degişlidir.

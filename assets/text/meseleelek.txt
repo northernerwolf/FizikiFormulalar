@@ -1,0 +1,30 @@
+1. Wakuumda biri-birinden  r=1m  aralykda ýerleşen  q1= q2 =1 Kl  nokatlanç zarýadlaryň özara täsir güýjüni kesgitlemeli.
+2.Wodorod atomynyň ýadrosy bilen elektronlaryň özara dartyşma güýjüni kesgitlemeli. Wodorod atomynyň radiusy  r=0,5*10-10m, ýadrosynyň zarýady ululygy boýunça elektronyň zarýadyna deň, alamaty boýunça garşylykly.
+3.Iki sany biratly nokatlanç  q1=0,7nKl  we  q2=1,3nKl    zarýadlar howada biri-birinden  r=6sm  aralykda ýerleşen. Bu zarýadlaryň arasynda haýsy aralykda  q3-nji zarýad ýerleşdirilende her bir zarýada täsir edýän güýçleriň  deň täsir edijisi nola deň bolar?
+4.Bir kulon zarýadyň nämedigine göz ýetirmek üçin şol ululykdaky iki sany nokatlanç zarýadyň biri-birinden bir kilometr aralykda ýerleşendäki özara täsir güjüne salgylanylýar. Bu güýjüni hasaplaň.
+5.Howada biri-birinden  r=20sm aralykda ýerleşen iki sany nokatlanç zarýad käbir ululykly güýç bilen täsirleşýärler.Bu zarýadlar ýagda biri-birinden näçe aralykda ýerleşdirilende, howadaky ýaly özara täsir güýji dörär?
+6.Nokatlanç  q=20 nKl zarýadyň ýerleşen nokadyndan  r=15sm aralykda döreýän elektrik meýdanynyň güýjenmesini kesgitlemeli. Zarýadyň ýerleşen gurşawy transformator ýagy.
+7.Nokatlanç  q1=20 nKl  we  q2=-10 nKl  zarvadlar howada biri-birinden  r=10sm  aralykda ýerleşen.Birinji zarýaddan  r1=8sm we ikinji  zarýaddan  r2=7sm  aralykda ýerleşen nokatdaky elektrik meýdanyň güýjenmesini kesgitlemeli.
+8.Nokatlanç  q1=8nKl  we  q2=-5,3nKl  zarvadlar biri-birinden  d=40sm  aralykda ýerleşen. Zarýadlaryň arasynda olaryň her birinden deň daşlykda ýatan nokatda  elektrik meýdanyň güýjenmesini kesgitlemeli.
+9. Elektrik meýdany biri-birinden  d=20sm aralykda ýerleşen iki sany nokatlanç  q1=10nKl   we  q2=-20sm  zarýadlar  tarpyndan  döredilen. Birinji  zarýaddan  r1=30sm  we  ikinji zarýaddan  r2=50sm  aralykda ýerleşen  nokatda elektrik meýdanyň güýjenmesini kesgitlemeli.
+10. Nokatlanç  položitel  q1=9q  we  q2=q  zarýadlar  bir-birinden  d=8sm  aralykda ýerleşen. Birinji  zarýaddan  haýsy  r1  aralykda  zarýadlaryň  döredýän  elektrik  meýdanynyň güýjemesi nola  deň bolar?  Eger  ikinji  zarýad  otrisatel  bolsa, ol nokat  birinji  zarýaddan  haýsy  aralykda  bolar?
+11.Biri-birinden  d=10sm aralykda  ýerleşen iki  sany  nokatlanç  q1=100nKl   we   q2=10nKl  zarýadlar  ulgamynyň  potensial  enegiýasyny kesgitlemeli.
+12. Nokatlanç  q1=10nKl , q2=20nKl    we   q3=-30nKl  zarýadlar  tarapy  a= 10sm  bolan deňtaraply  üçburçygyň  depelerinde  ýerleşen. Bu  zarýadlar  ulgamynyň  potensial  enegiýasyny kesgitlemeli.
+13. Tükeniksiz  tekizligiň  zarýadynyň  üst  dykyzlygy   σ=10 nKl/m^2 .  Tekizligiň üstünden  d=10sm  aralykda  ýerleşen  nokatlaryň  potensiallarynyň  tapawudyny  kesgitlemeli.
+14. Tizligi  v0=1 Mm/s   bolan electron  güýjenmesi  E=1kW/m  deň  birhili  elektrik  meýdanynyň güýç  çyzyklarynyň  ugry  boýunça  uçup  girýär. Tizligi  iki  esse  kiçelýänçe  elektron  näçe  aralygy  geçer?
+15.Radiuslary  r=1sm  deň  bolan  iki  sany  şarjagaz  wakuumda  biri-birinden  l =2 m  aralykda  ýerleşen. Şarjagazlaryň  her  birine  alamatlary  bilen  tapawutlanýan  q=2nKl  zarýad  berlende  olaryň  arasynda ýüze  çykýan  potensiallar  tapawudyny kesgitlemeli.
+16.Radiusy  R=2 sm  bolan  ýalňyz  metal  şaryň  elektrik  sygymyny   tapmaly. 
+17. Radiusy  R=3 sm  bolan  suwyň  içinde  ýerleşen  metal  şaryň  sygymyny  kesgitlemeli.
+18. Ýeriň  radiusy  R=6400km bolan  şar  diýip  hasap  edip, onuň  elektrik  sygymyny  kesgitlemeli.
+19.Radiuslary  R1=8sm   we   R2= 18sm  şarjagazlar  degişlilikde  q1=13 nKl  we  q2=-18 nKl  zarýadlar  bilen  zarýadlandyrylan. Soňra  bu   biri-birinden  ýeterlik  uzakda  ýerleşen  şarjagazlar  elektrik  sygymy  hasaba  almazlyk  derejede  bolan  geçiriji  arkaly  birleşdirilen. Şarjagazlarda  zarýadlaryň  gutarnykly  paýlanmasyny  tapmaly.
+20. Plastinalarynyň  meýdanlary  S=100 sm2  we  aralygy  d=0,2 mm  bolan  slýudaly  tekiz  kondensatoryň  elektrik  sygymyny  kesgitlemeli. 
+21. Geçirijidäki  tok  güýji  t=10 s  wagtda  I0=0 –dan  I=3 A –e  çenli  deňölçegli  artypdyr. Geçirijiden  geçen  zarýady  kesgitlemeli.
+22. Uzynlygy  l=10 m  demir  geçirijiniň  uçlaryndaky  potensiallar  tapawudy  U=6W . Geçirijidäki  toguň  dykyzlygyny  kesgitlemeli.
+23. Radiusy  r=2,5 sm  farfor  silindre  diametri  d=1 mm  deň  nihrom sim  saralyp, elektrik garşylygy  R=40 Om  bolan  peç  ýasalan. Nihrom  simiň  farfor  silindre  saralan  sarym  sanyny  tapmaly.
+24.Mis  simden  saralan  tegegiň  garşylygy  R=10,8 Om. Mis  simiň  agramy  P=33,42 N. Tegege  saralan  mis  simiň  uzynlygyny  we  diametrini  tapmaly.
+25. Diametri  d=1 sm bolan  demir  geçirijiniň  agramy  P=9,8 N. Geçirijiniň  elektrik  garşylygyny  tapmaly.
+26. Uzynlygy  l=2 m  we  kese  kesiginiň  meýdany  S=0,4 mm2  bolan  mis  geçirijiden  tok  akdyrylanda, her  sekuntda  Q= 0,35 J ýylylyk  mukdary  bölünip çykypdyr. Bu  geçirijiniň  kese  kesiginiden  bir  sekuntda  näçe  N  elektron  geçýändigini  tapmaly.
+27. Görümi  V=6 sm3  bolan  mis  geçirijiden  tok  akdyrylanda  t=1 min  wagtda  Q=216 J  ýylylyk  mukdary  bölünip  çykypdyr. Geçirijidäki  elektrik  meýdanynyň  güýjenmesini  kesgitlemeli.
+28. Mis sulfatynyň  (CuSO4)  garyndysynyň  elektrolitlerde  ýerleşdirilen elektrodda  t=2 sag dowamynda  I=10 A  tok  güýjünde  bölünip  çykýan  misiň  massasyny  kesgitlemeli.
+29. Elektrrolitden  t=2 sagadyň  dowamynda  geçýän  tok  güýji  I=1 A  deň bolan  ýagdaýynda  katoda  m=8,05 g  madda  çöken. Maddanyň  elektrohimiki  ekwiwalentligini  kesgitlemeli.
+30.Kümüş  sulfatynyň  (Ag2SO4)  garyndysynyň  elektrolizinden  katoda  m=16,77 g arassa  kümüş  çöken  bolsa, elektrolitden  näçe  zarýad  geçendigini  tapmaly. 
