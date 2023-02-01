@@ -12,8 +12,6 @@ class ConstantColors {
 }
 
 class Constants {
-  static const baseUrl = 'http://95.85.124.76:9000/api';
-
   static const List<Color> newGradient = [
     Color?.fromRGBO(20, 59, 76, 1),
     Color?.fromRGBO(35, 72, 88, 1),
